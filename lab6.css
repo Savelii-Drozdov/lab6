@@ -53,27 +53,17 @@ h1{
 }
 
 
-.fotoLogo {
+.img-fluid {
     margin: 10px;
-    width: 480px;
-    height: 302px;
+    max-width: 80%;
+    height: auto;
 }
 
-
-.fotog {
-    margin: 10px;
-    width: 601px;
-    height: 400px;
-}
 
 footer {
     background-color: #744aea;
 }
  
-.img {
-    width: 45px;
-    
-}
 
 .form {
     max-width: 510px;
